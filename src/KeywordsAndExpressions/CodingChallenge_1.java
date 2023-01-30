@@ -2,7 +2,7 @@ package KeywordsAndExpressions;
 
 public class CodingChallenge_1 {
     public static void main(String[] args){
-        checkNumber(0);
+        checkNumber(0 );
     }
     public static void checkNumber(int parameterNumber){
         if(parameterNumber>0){
