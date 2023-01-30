@@ -1,8 +1,7 @@
 package KeywordsAndExpressions;
-
-public class codingChallenge_3 {
+public class codingChallenge_3{
     public static void main(String[] args) {
-        
+        printMegaBytesAndKiloBytes(2500);
     }
     public static void printMegaBytesAndKiloBytes(int KiloBytes){
         if(KiloBytes<0){
