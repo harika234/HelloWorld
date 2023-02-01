@@ -11,6 +11,7 @@ public class AreaCalculator_CodingChallenge_9 {
         if(radius < 0){
             return -1;
         }
+
         return radius*radius*Math.PI;
     }
     public static double area(double x,double y){
